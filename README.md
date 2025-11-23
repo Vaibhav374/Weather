@@ -27,5 +27,3 @@ CSS3
 JavaScript (Fetch API)
 
 WeatherAPI.com
-
-📦 Project Structure
